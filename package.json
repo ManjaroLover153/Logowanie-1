@@ -1,5 +1,23 @@
 {
+  "name": "logowanie",
+  "description": "How to Run the server (app.js)",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CloningApps/Logowanie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CloningApps/Logowanie/issues"
+  },
+  "homepage": "https://github.com/CloningApps/Logowanie#readme",
   "dependencies": {
-    "express": "^4.21.1"
+    "express": "^5.1.0"
   }
 }
